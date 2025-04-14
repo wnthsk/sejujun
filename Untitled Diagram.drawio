@@ -25,16 +25,19 @@
         <mxCell id="agWAGZ31P35PROJ5reOC-13" value="주변 병원 정보" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
           <mxGeometry x="40" y="300" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="agWAGZ31P35PROJ5reOC-12" value="약 정보 등록" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
+          <mxGeometry x="200" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="agWAGZ31P35PROJ5reOC-11" value="약 알림" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
           <mxGeometry x="30" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="agWAGZ31P35PROJ5reOC-10" value="약 정보" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
           <mxGeometry x="30" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="agWAGZ31P35PROJ5reOC-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;curved=0;dashed=1;entryX=0.062;entryY=0.203;entryDx=0;entryDy=0;entryPerimeter=0;" parent="agWAGZ31P35PROJ5reOC-2" source="agWAGZ31P35PROJ5reOC-10" edge="1">
+        <mxCell id="agWAGZ31P35PROJ5reOC-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;curved=0;dashed=1;entryX=0.062;entryY=0.203;entryDx=0;entryDy=0;entryPerimeter=0;" parent="agWAGZ31P35PROJ5reOC-2" source="agWAGZ31P35PROJ5reOC-10" target="agWAGZ31P35PROJ5reOC-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="390" as="sourcePoint" />
-            <mxPoint x="207.44000000000005" y="486.24" as="targetPoint" />
+            <mxPoint x="260" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="agWAGZ31P35PROJ5reOC-34" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
