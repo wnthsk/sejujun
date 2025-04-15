@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="WYiLv4jmbkYMUt4aH29a">
-    <mxGraphModel dx="777" dy="1237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1587" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="agWAGZ31P35PROJ5reOC-2" value="노인 맞춤형 건강 관리 시스템" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="148" width="520" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="agWAGZ31P35PROJ5reOC-9" value="회원가입" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
-          <mxGeometry x="18" y="47" width="120" height="80" as="geometry" />
+          <mxGeometry x="175" y="157" width="520" height="680" as="geometry" />
         </mxCell>
         <mxCell id="agWAGZ31P35PROJ5reOC-16" value="사용자 관리" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
           <mxGeometry x="350" y="97" width="120" height="70" as="geometry" />
@@ -18,9 +15,6 @@
         </mxCell>
         <mxCell id="agWAGZ31P35PROJ5reOC-17" value="학습 안내" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
           <mxGeometry x="85" y="203" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="agWAGZ31P35PROJ5reOC-14" value="로그인" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
-          <mxGeometry x="132" y="105" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="agWAGZ31P35PROJ5reOC-13" value="주변 병원 정보" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
           <mxGeometry x="68" y="308" width="120" height="80" as="geometry" />
@@ -94,8 +88,20 @@
             <mxPoint x="212" y="242" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tS3e4EEXtF4_rLf18kXX-5" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="agWAGZ31P35PROJ5reOC-2">
-          <mxGeometry x="288" y="221" width="60" height="30" as="geometry" />
+        <mxCell id="tS3e4EEXtF4_rLf18kXX-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="agWAGZ31P35PROJ5reOC-2">
+          <mxGeometry x="165" y="98" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tS3e4EEXtF4_rLf18kXX-8" value="앱 최초 실행" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="agWAGZ31P35PROJ5reOC-2">
+          <mxGeometry x="45" y="48" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tS3e4EEXtF4_rLf18kXX-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;curved=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.021;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="agWAGZ31P35PROJ5reOC-2" source="tS3e4EEXtF4_rLf18kXX-8" target="tS3e4EEXtF4_rLf18kXX-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="498" y="123" as="sourcePoint" />
+            <mxPoint x="261" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tS3e4EEXtF4_rLf18kXX-10" value="단말기 UUID 등록" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="agWAGZ31P35PROJ5reOC-2">
+          <mxGeometry x="213" y="39" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="agWAGZ31P35PROJ5reOC-4" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="778" y="308" width="30" height="60" as="geometry" />
@@ -106,10 +112,10 @@
         <mxCell id="agWAGZ31P35PROJ5reOC-3" value="사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="31" y="345" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="agWAGZ31P35PROJ5reOC-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="agWAGZ31P35PROJ5reOC-3" target="agWAGZ31P35PROJ5reOC-9" edge="1">
+        <mxCell id="agWAGZ31P35PROJ5reOC-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="agWAGZ31P35PROJ5reOC-3" target="tS3e4EEXtF4_rLf18kXX-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="170" as="sourcePoint" />
-            <mxPoint x="60" y="120" as="targetPoint" />
+            <mxPoint x="247" y="271" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="agWAGZ31P35PROJ5reOC-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="agWAGZ31P35PROJ5reOC-3" target="agWAGZ31P35PROJ5reOC-13" edge="1">
@@ -166,11 +172,8 @@
             <mxPoint x="170" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tS3e4EEXtF4_rLf18kXX-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="agWAGZ31P35PROJ5reOC-3" target="agWAGZ31P35PROJ5reOC-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="78" y="369" as="sourcePoint" />
-            <mxPoint x="128" y="319" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="tS3e4EEXtF4_rLf18kXX-11" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="379" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
