@@ -1124,7 +1124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D3CwZI-FMp-0S94vBfv6" name="sd 약 알림">
-    <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1135,7 +1135,7 @@
           <mxGeometry x="615" y="420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uYeaf2DgOTHVh7GqtGv_-4" value="sd 약 알림" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=40;" vertex="1" parent="1">
-          <mxGeometry x="90" y="290" width="1110" height="800" as="geometry" />
+          <mxGeometry x="290" y="340" width="650" height="500" as="geometry" />
         </mxCell>
         <mxCell id="uYeaf2DgOTHVh7GqtGv_-5" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;div&gt;알림 시스템&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="419" y="387" width="100" height="410" as="geometry" />
