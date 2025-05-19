@@ -61,20 +61,8 @@
         <mxCell id="agWAGZ31P35PROJ5reOC-57" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
           <mxGeometry x="305" y="296" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tS3e4EEXtF4_rLf18kXX-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
-          <mxGeometry x="165" y="98" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tS3e4EEXtF4_rLf18kXX-8" value="앱 최초 실행" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
+        <mxCell id="tS3e4EEXtF4_rLf18kXX-8" value="앱 실행" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
           <mxGeometry x="45" y="48" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tS3e4EEXtF4_rLf18kXX-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;curved=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.021;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;" parent="agWAGZ31P35PROJ5reOC-2" source="tS3e4EEXtF4_rLf18kXX-8" target="tS3e4EEXtF4_rLf18kXX-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="498" y="123" as="sourcePoint" />
-            <mxPoint x="261" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tS3e4EEXtF4_rLf18kXX-10" value="단말기 UUID 등록" style="ellipse;whiteSpace=wrap;html=1;" parent="agWAGZ31P35PROJ5reOC-2" vertex="1">
-          <mxGeometry x="230" y="51" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="agWAGZ31P35PROJ5reOC-4" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="778" y="308" width="30" height="60" as="geometry" />
