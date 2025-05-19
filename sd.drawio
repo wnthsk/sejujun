@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xx8g7H8Xf8d9MJ3QNM9l" name="sd 앱 실행">
-    <mxGraphModel dx="1082" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
         <mxCell id="88Ob4_kD5uC0H-VeBAwT-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="B664CNn3AxfdgNS15yO0-23" vertex="1">
           <mxGeometry x="5" y="90" width="10" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="B664CNn3AxfdgNS15yO0-24" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;관리자&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="B664CNn3AxfdgNS15yO0-24" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;사용자&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="279" y="120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B664CNn3AxfdgNS15yO0-25" value="sd 앱 실행" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=40;" parent="1" vertex="1">
