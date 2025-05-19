@@ -459,158 +459,158 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ji0tWzAJYqBCujCCBq_v" name="페이지-4">
-    <mxGraphModel dx="1261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-2" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;사용자&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-2" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;사용자&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="279" y="110" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-3" value="sd 앱 실행" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=40;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-3" value="sd 주변 병원 정보" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=100;height=40;" parent="1" vertex="1">
           <mxGeometry x="120" y="50" width="920" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-6" value="병원 정보 화면 클릭()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eyNOPj4W5LRzNS8-DWyf-1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-6" value="병원 정보 화면 클릭()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eyNOPj4W5LRzNS8-DWyf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="288.6666666666665" y="158.00000000000009" as="sourcePoint" />
             <mxPoint x="440" y="158.11" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-8" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-8" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="170" width="440" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-11" value="위치 정보 전달" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-11" value="위치 정보 전달" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="445" y="224" as="targetPoint" />
             <mxPoint x="595" y="224" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-13" value="위치 수동 입력 요청()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1" target="eyNOPj4W5LRzNS8-DWyf-1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-13" value="위치 수동 입력 요청()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=center;" parent="1" target="eyNOPj4W5LRzNS8-DWyf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435" y="267" as="sourcePoint" />
             <mxPoint x="289.16666666666663" y="267" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KqGOY5UHgoSyNzjWeSAW-8" target="KqGOY5UHgoSyNzjWeSAW-8">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KqGOY5UHgoSyNzjWeSAW-8" target="KqGOY5UHgoSyNzjWeSAW-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="390" as="sourcePoint" />
             <mxPoint x="560" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-20" value="&lt;font&gt;[GPS 권한이&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;허용된 경우]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-20" value="&lt;font&gt;[GPS 권한이&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;허용된 경우]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="175" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-21" value="&lt;font&gt;[GPS 권한이&lt;/font&gt;&lt;div&gt;&lt;font&gt;허용되지 않은 경우]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-21" value="&lt;font&gt;[GPS 권한이&lt;/font&gt;&lt;div&gt;&lt;font&gt;허용되지 않은 경우]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="169" y="250" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-28" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-28" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="320" width="780" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-30" value="[네트워크에&amp;nbsp;&lt;div&gt;연결된 경우]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-30" value="[네트워크에&amp;nbsp;&lt;div&gt;연결된 경우]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="171" y="352" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-31" value="[네트워크에&amp;nbsp;&lt;div&gt;연결되지 않은 경우]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-31" value="[네트워크에&amp;nbsp;&lt;div&gt;연결되지 않은 경우]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="170" y="466" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-26" value=":로컬 저장소" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-26" value=":로컬 저장소" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="880" y="80" width="100" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KqGOY5UHgoSyNzjWeSAW-26">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="KqGOY5UHgoSyNzjWeSAW-26" vertex="1">
           <mxGeometry x="45" y="140.49" width="10" height="419.51" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=40;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=40;" parent="1" vertex="1">
           <mxGeometry x="279" y="80" width="20" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="eyNOPj4W5LRzNS8-DWyf-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KqGOY5UHgoSyNzjWeSAW-1">
+        <mxCell id="eyNOPj4W5LRzNS8-DWyf-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="KqGOY5UHgoSyNzjWeSAW-1" vertex="1">
           <mxGeometry x="5" y="60" width="10" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-4" value=":앱" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-4" value=":앱" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="390" y="80" width="100" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KqGOY5UHgoSyNzjWeSAW-4">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="KqGOY5UHgoSyNzjWeSAW-4" vertex="1">
           <mxGeometry x="45" y="140.49" width="10" height="419.51" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-9" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;div&gt;GPS 시스템&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-9" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;div&gt;GPS 시스템&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="550" y="80" width="100" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KqGOY5UHgoSyNzjWeSAW-9">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="KqGOY5UHgoSyNzjWeSAW-9" vertex="1">
           <mxGeometry x="45" y="140.49" width="10" height="419.51" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-15" value=":병원 API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-15" value=":병원 API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="670" y="80" width="100" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KqGOY5UHgoSyNzjWeSAW-15">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="KqGOY5UHgoSyNzjWeSAW-15" vertex="1">
           <mxGeometry x="45" y="140.49" width="10" height="419.51" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-22" value="병원 정보 반환" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="KqGOY5UHgoSyNzjWeSAW-5">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-22" value="병원 정보 반환" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="KqGOY5UHgoSyNzjWeSAW-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="530" as="targetPoint" />
             <mxPoint x="924.81" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KqGOY5UHgoSyNzjWeSAW-28">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KqGOY5UHgoSyNzjWeSAW-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180.6199999999999" y="460" as="sourcePoint" />
             <mxPoint x="796.9000000000001" y="461.4000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-14" value="병원 정보 반환" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;align=center;" edge="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-14" value="병원 정보 반환" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;align=center;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="445" y="369.9999999999998" as="targetPoint" />
             <mxPoint x="715.0000000000002" y="369.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-12" value="위치 정보 요청()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-12" value="위치 정보 요청()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440.16666666666663" y="200" as="sourcePoint" />
             <mxPoint x="599.5" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-34" value="GPS 기반 병원 정보 탐색()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-34" value="GPS 기반 병원 정보 탐색()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=center;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="445" y="342.99951219512184" as="sourcePoint" />
             <mxPoint x="715" y="342.99951219512184" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-7" value="거리 순 병원 정보 표시" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="eyNOPj4W5LRzNS8-DWyf-1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-7" value="거리 순 병원 정보 표시" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="eyNOPj4W5LRzNS8-DWyf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="289.16666666666663" y="440" as="targetPoint" />
             <mxPoint x="435" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-35" value="병원 정보 백업 ()&amp;nbsp;&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=right;" edge="1" parent="1" target="KqGOY5UHgoSyNzjWeSAW-27">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-35" value="병원 정보 백업 ()&amp;nbsp;&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=right;" parent="1" target="KqGOY5UHgoSyNzjWeSAW-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="445" y="399.7095121951218" as="sourcePoint" />
             <mxPoint x="715" y="399.7095121951218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-36" value="로컬 병원 정보 요청" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-36" value="로컬 병원 정보 요청" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=center;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="487.6595121951218" as="sourcePoint" />
             <mxPoint x="925" y="487.6595121951218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-38" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-38" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="500" width="760" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="KqGOY5UHgoSyNzjWeSAW-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KqGOY5UHgoSyNzjWeSAW-38">
+        <mxCell id="KqGOY5UHgoSyNzjWeSAW-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KqGOY5UHgoSyNzjWeSAW-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="189.9999999999999" y="585" as="sourcePoint" />
             <mxPoint x="969.38" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eyNOPj4W5LRzNS8-DWyf-2" value="거리 순 병원 정보 표시" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="eyNOPj4W5LRzNS8-DWyf-1">
+        <mxCell id="eyNOPj4W5LRzNS8-DWyf-2" value="거리 순 병원 정보 표시" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="eyNOPj4W5LRzNS8-DWyf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="291" y="540" as="targetPoint" />
             <mxPoint x="432" y="540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eyNOPj4W5LRzNS8-DWyf-3" value="[오프라인 정보가&amp;nbsp;&lt;div&gt;저장되어 있는 경우]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="eyNOPj4W5LRzNS8-DWyf-3" value="[오프라인 정보가&amp;nbsp;&lt;div&gt;저장되어 있는 경우]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="175" y="540" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eyNOPj4W5LRzNS8-DWyf-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;[오프라인 정보가&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;저장되어 있지 않은 경우]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="eyNOPj4W5LRzNS8-DWyf-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;[오프라인 정보가&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;저장되어 있지 않은 경우]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="176" y="600" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eyNOPj4W5LRzNS8-DWyf-5" value="병원 정보 없음 안내" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="eyNOPj4W5LRzNS8-DWyf-5" value="병원 정보 없음 안내" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="296" y="614.67" as="targetPoint" />
             <mxPoint x="434" y="614.67" as="sourcePoint" />
@@ -1124,7 +1124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D3CwZI-FMp-0S94vBfv6" name="sd 약 알림">
-    <mxGraphModel dx="1577" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
