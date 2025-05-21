@@ -620,7 +620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cJlk7Xgu9MKBFOZEma7S" name="병원 정보 관리">
-    <mxGraphModel dx="2765" dy="2693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1513" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -743,12 +743,6 @@
         <mxCell id="rG9DrUgXZ8_NiXbyUHCC-7" value="[GPS 권한 허용]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="-85" y="-468" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kpA6ADd2uMAdlkni26Np-6" value="병원 정보 반환" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="-486" as="targetPoint" />
-            <mxPoint x="531" y="-486" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kpA6ADd2uMAdlkni26Np-7" value="사용자 위치 정보 요청()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265" y="-440" as="sourcePoint" />
@@ -846,6 +840,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="264.9999999999998" y="110" as="sourcePoint" />
             <mxPoint x="659" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpA6ADd2uMAdlkni26Np-6" value="병원 정보 반환" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="-486" as="targetPoint" />
+            <mxPoint x="531" y="-486" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
