@@ -503,11 +503,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nBCCRYvfiedPLsGbI0G_" name="sd 사용자 관리">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="485" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uyctoVeSGK95oNNDBMJL-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="uyctoVeSGK95oNNDBMJL-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="830.25" as="sourcePoint" />
             <mxPoint x="1120" y="829.8599999999997" as="targetPoint" />
@@ -531,7 +531,7 @@
         <mxCell id="R4DR_G9GQ5IVlfOTWtKF-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="R4DR_G9GQ5IVlfOTWtKF-4" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="nw6vVEomF-Nmkha3so8c-1" value="온라인 상태 확인()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="R4DR_G9GQ5IVlfOTWtKF-4" source="R4DR_G9GQ5IVlfOTWtKF-5" target="R4DR_G9GQ5IVlfOTWtKF-5">
+        <mxCell id="nw6vVEomF-Nmkha3so8c-1" value="온라인 상태 확인()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="R4DR_G9GQ5IVlfOTWtKF-4" source="R4DR_G9GQ5IVlfOTWtKF-5" target="R4DR_G9GQ5IVlfOTWtKF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="57" y="121" as="sourcePoint" />
             <Array as="points">
@@ -541,7 +541,7 @@
             <mxPoint x="57" y="131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7RA_lX9Ettf6jEbjOQEF-2" value="관리자 전용&lt;div&gt;메인 화면으로 복귀()&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="R4DR_G9GQ5IVlfOTWtKF-4" source="R4DR_G9GQ5IVlfOTWtKF-5" target="R4DR_G9GQ5IVlfOTWtKF-5">
+        <mxCell id="7RA_lX9Ettf6jEbjOQEF-2" value="관리자 전용&lt;div&gt;메인 화면으로 복귀()&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="R4DR_G9GQ5IVlfOTWtKF-4" source="R4DR_G9GQ5IVlfOTWtKF-5" target="R4DR_G9GQ5IVlfOTWtKF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="56" y="508" as="sourcePoint" />
             <Array as="points">
@@ -551,7 +551,7 @@
             <mxPoint x="56" y="518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R4DR_G9GQ5IVlfOTWtKF-6" value="사용자 관리 버튼 클릭()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="R4DR_G9GQ5IVlfOTWtKF-5">
+        <mxCell id="R4DR_G9GQ5IVlfOTWtKF-6" value="사용자 관리 버튼 클릭()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="R4DR_G9GQ5IVlfOTWtKF-5" edge="1">
           <mxGeometry x="-0.0054" relative="1" as="geometry">
             <mxPoint x="564" y="480.65999999999985" as="sourcePoint" />
             <mxPoint x="705" y="480.66" as="targetPoint" />
@@ -582,7 +582,7 @@
             <mxPoint x="1077" y="740" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R4DR_G9GQ5IVlfOTWtKF-23" value="UUID 목록 조회 버튼 클릭()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="R4DR_G9GQ5IVlfOTWtKF-5">
+        <mxCell id="R4DR_G9GQ5IVlfOTWtKF-23" value="UUID 목록 조회 버튼 클릭()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="R4DR_G9GQ5IVlfOTWtKF-5" edge="1">
           <mxGeometry x="-0.0054" relative="1" as="geometry">
             <mxPoint x="564" y="560" as="sourcePoint" />
             <mxPoint x="705" y="560" as="targetPoint" />
@@ -595,7 +595,7 @@
             <mxPoint x="705" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R4DR_G9GQ5IVlfOTWtKF-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;특정 UUID 선택 후 삭제 요청()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="R4DR_G9GQ5IVlfOTWtKF-5">
+        <mxCell id="R4DR_G9GQ5IVlfOTWtKF-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;특정 UUID 선택 후 삭제 요청()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="R4DR_G9GQ5IVlfOTWtKF-5" edge="1">
           <mxGeometry x="-0.0054" relative="1" as="geometry">
             <mxPoint x="564" y="679" as="sourcePoint" />
             <mxPoint x="705" y="679" as="targetPoint" />
@@ -617,23 +617,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nw6vVEomF-Nmkha3so8c-2" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=70;height=20;" vertex="1" parent="1">
+        <mxCell id="nw6vVEomF-Nmkha3so8c-2" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=70;height=20;" parent="1" vertex="1">
           <mxGeometry x="440" y="520" width="680" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="mGa1-XhXMlZFITyc2K8O-1" value="[서버 연결 성공]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="mGa1-XhXMlZFITyc2K8O-1" value="[서버 연결 성공]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="440" y="540" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mGa1-XhXMlZFITyc2K8O-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;사용자 관리 기능 종료()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="R4DR_G9GQ5IVlfOTWtKF-5">
+        <mxCell id="mGa1-XhXMlZFITyc2K8O-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;사용자 관리 기능 종료()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="R4DR_G9GQ5IVlfOTWtKF-5" edge="1">
           <mxGeometry x="-0.0054" relative="1" as="geometry">
             <mxPoint x="564" y="809.0000000000002" as="sourcePoint" />
             <mxPoint x="749" y="809.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uyctoVeSGK95oNNDBMJL-2" value="[서버 연결 실패&lt;br&gt;(ex E1)]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="uyctoVeSGK95oNNDBMJL-2" value="[서버 연결 실패&lt;br&gt;(ex 1e1)]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="440" y="840" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7RA_lX9Ettf6jEbjOQEF-1" value="&quot;사용자 관리 기능은 온라인 상태에서만 실행할 수 있습니다&quot; 메시지 표시" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;align=center;" edge="1" parent="1" source="R4DR_G9GQ5IVlfOTWtKF-5" target="JUTWupZfJx8gIUY6-H3r-1">
+        <mxCell id="7RA_lX9Ettf6jEbjOQEF-1" value="&quot;사용자 관리 기능은 온라인 상태에서만 실행할 수 있습니다&quot; 메시지 표시" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;align=center;" parent="1" source="R4DR_G9GQ5IVlfOTWtKF-5" target="JUTWupZfJx8gIUY6-H3r-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="870" as="targetPoint" />
             <mxPoint x="745" y="870" as="sourcePoint" />
