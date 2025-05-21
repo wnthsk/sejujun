@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xx8g7H8Xf8d9MJ3QNM9l" name="sd 앱 실행">
-    <mxGraphModel dx="983" dy="564" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,13 +223,13 @@
           <mxGeometry x="670" y="80" width="100" height="648" as="geometry" />
         </mxCell>
         <mxCell id="B664CNn3AxfdgNS15yO0-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="B664CNn3AxfdgNS15yO0-37" vertex="1">
-          <mxGeometry x="45" y="90" width="10" height="558" as="geometry" />
+          <mxGeometry x="45" y="432" width="10" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="B664CNn3AxfdgNS15yO0-40" value="UUID 조회()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=right;" parent="1" edge="1" source="B664CNn3AxfdgNS15yO0-27">
-          <mxGeometry x="0.3514" y="5" relative="1" as="geometry">
+        <mxCell id="B664CNn3AxfdgNS15yO0-40" value="UUID 조회 요청()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=right;" parent="1" edge="1" source="B664CNn3AxfdgNS15yO0-27">
+          <mxGeometry x="0.4865" y="4" relative="1" as="geometry">
             <mxPoint x="443" y="261.995" as="sourcePoint" />
             <mxPoint x="593" y="261" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B664CNn3AxfdgNS15yO0-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.002;exitY=0.19;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="B0ekamoDnBO0MablIW8z-1">
@@ -360,10 +360,71 @@
             <mxPoint x="28" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B0ekamoDnBO0MablIW8z-4" value="UUID 등록()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=right;" edge="1" parent="1">
-          <mxGeometry x="0.3514" y="5" relative="1" as="geometry">
+        <mxCell id="B0ekamoDnBO0MablIW8z-4" value="UUID 등록 요청()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=right;" edge="1" parent="1">
+          <mxGeometry x="0.5541" y="4" relative="1" as="geometry">
             <mxPoint x="447" y="400" as="sourcePoint" />
             <mxPoint x="595" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0ekamoDnBO0MablIW8z-5" value="UUID 재조회 요청()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=right;" edge="1" parent="1">
+          <mxGeometry x="0.5811" relative="1" as="geometry">
+            <mxPoint x="446" y="528.47" as="sourcePoint" />
+            <mxPoint x="594" y="528.47" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0ekamoDnBO0MablIW8z-6" value="ex E1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="409" width="615.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B0ekamoDnBO0MablIW8z-7" value="[등록 실패]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="189" y="409" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0ekamoDnBO0MablIW8z-8" value="&amp;nbsp; &amp;nbsp;오류 메세지&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&quot;UUID를 확인할 수 없습니다.&quot;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;align=right;" edge="1" parent="1" source="B664CNn3AxfdgNS15yO0-27" target="88Ob4_kD5uC0H-VeBAwT-1">
+          <mxGeometry x="-1" y="-6" relative="1" as="geometry">
+            <mxPoint x="289" y="450.0000000000002" as="targetPoint" />
+            <mxPoint x="437.0000000000002" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="374" y="450.0000000000002" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0ekamoDnBO0MablIW8z-9" value="로그 기록 및 앱 종료()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.1915" y="60" relative="1" as="geometry">
+            <mxPoint x="446" y="466" as="sourcePoint" />
+            <mxPoint x="446" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="481" y="466" />
+              <mxPoint x="481" y="490" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0ekamoDnBO0MablIW8z-10" value="ex E1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="168" y="544" width="615.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B0ekamoDnBO0MablIW8z-11" value="[재조회 실패]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="189.5" y="544" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0ekamoDnBO0MablIW8z-12" value="&amp;nbsp; &amp;nbsp;오류 메세지&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&quot;UUID를 확인할 수 없습니다.&quot;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;align=right;" edge="1" parent="1">
+          <mxGeometry x="-1" y="-6" relative="1" as="geometry">
+            <mxPoint x="294.5" y="585" as="targetPoint" />
+            <mxPoint x="435.5" y="585" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="374.5" y="585.0000000000002" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0ekamoDnBO0MablIW8z-13" value="로그 기록 및 앱 종료()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.1915" y="60" relative="1" as="geometry">
+            <mxPoint x="446.5" y="601" as="sourcePoint" />
+            <mxPoint x="446.5" y="625" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="481.5" y="601" />
+              <mxPoint x="481.5" y="625" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
