@@ -917,7 +917,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OLFDyipsOZZjbY7KRqYh" name="sd 약 정보 관리">
-    <mxGraphModel dx="901" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ozbn9vz0Qk2M74nHGUda" name="음성 안내">
-    <mxGraphModel dx="1183" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1134,21 +1134,21 @@
             <mxPoint x="55" y="311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2ewV7JrnGQrNAqcMdWzl-3" value="이전 화면으로 복귀()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1.1;exitY=0.839;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="qTPYsw7hLhtvsJA178R2-6" source="qTPYsw7hLhtvsJA178R2-7" target="qTPYsw7hLhtvsJA178R2-7">
+        <mxCell id="2ewV7JrnGQrNAqcMdWzl-3" value="이전 화면으로 복귀()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1.1;exitY=0.839;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="qTPYsw7hLhtvsJA178R2-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="57" y="368" as="sourcePoint" />
+            <mxPoint x="56" y="375.972" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="87" y="368" />
-              <mxPoint x="87" y="378" />
+              <mxPoint x="87" y="376" />
+              <mxPoint x="87" y="386" />
             </Array>
-            <mxPoint x="57" y="378" as="targetPoint" />
+            <mxPoint x="55" y="386.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qTPYsw7hLhtvsJA178R2-9" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=40;" parent="1" vertex="1">
           <mxGeometry x="376" y="190" width="20" height="434" as="geometry" />
         </mxCell>
         <mxCell id="qTPYsw7hLhtvsJA178R2-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="qTPYsw7hLhtvsJA178R2-9" vertex="1">
-          <mxGeometry x="5" y="76" width="10" height="337" as="geometry" />
+          <mxGeometry x="5" y="76" width="10" height="344" as="geometry" />
         </mxCell>
         <mxCell id="2ewV7JrnGQrNAqcMdWzl-1" value="음성 안내 청취()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="qTPYsw7hLhtvsJA178R2-9" source="qTPYsw7hLhtvsJA178R2-10" target="qTPYsw7hLhtvsJA178R2-10">
           <mxGeometry relative="1" as="geometry">
@@ -1167,7 +1167,7 @@
           <mxGeometry x="45" y="66" width="10" height="355" as="geometry" />
         </mxCell>
         <mxCell id="qTPYsw7hLhtvsJA178R2-31" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="193" y="334.5" width="590" height="246.5" as="geometry" />
+          <mxGeometry x="193" y="334.5" width="590" height="255.5" as="geometry" />
         </mxCell>
         <mxCell id="qTPYsw7hLhtvsJA178R2-32" value="[TTS 시스템 연결 실패]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="266" y="455" width="98" height="30" as="geometry" />
