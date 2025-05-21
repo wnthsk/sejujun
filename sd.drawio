@@ -1020,7 +1020,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ozbn9vz0Qk2M74nHGUda" name="음성 안내">
-    <mxGraphModel dx="2365" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1034,7 +1034,7 @@
           <mxGeometry x="181" y="115" width="640" height="526" as="geometry" />
         </mxCell>
         <mxCell id="qTPYsw7hLhtvsJA178R2-2" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;사용자&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="266" y="158" width="70" height="30" as="geometry" />
+          <mxGeometry x="351" y="163" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qTPYsw7hLhtvsJA178R2-3" value="음성 안내 버튼 클릭" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="qTPYsw7hLhtvsJA178R2-9" edge="1">
           <mxGeometry x="0.0016" relative="1" as="geometry">
